@@ -9,6 +9,7 @@ public class Main {
         System.out.println(circle1.toString()+ "\n" + circle1.getArea() + "\n" + circle1.getPerimeter());
         System.out.println(rec1.toString()+ "\n" + rec1.getArea() + "\n" + rec1.getPerimeter());
         System.out.println(sqar.toString()+ "\n" + sqar.getArea() + "\n" + sqar.getPerimeter());
+        System.out.println("Hello");
         }
     }
 
